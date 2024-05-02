@@ -1,5 +1,5 @@
 .
-**Health Management Discord Bot**
+ # Health Management Discord Bot
 
 
 A health management discord bot that will send daily quotes & workout challenges. It will also send DMs to the user on the goals they set depending on their reminder preference. The bot has various interactions for the user to learn anything health related, such as nutritional information. 
